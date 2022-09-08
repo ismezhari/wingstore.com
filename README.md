@@ -1,0 +1,2 @@
+# wingstore.com
+simple website
